@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "IF+ZTIxpyNXusWOz6b7Ykw5nvHOUTwzIyRdnRoJ1umwsTUczu/GIOWLP3tzEmOW5HCeCujxZQgHDFHOmnggsBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thauanzin\\Documents\\Software Projects\\Krpc-Cs\\Krpc-Cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thauanzin\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
+    "C:\\Users\\Thauanzin\\.nuget\\packages\\krpc.client\\0.4.8\\krpc.client.0.4.8.nupkg.sha512",
+    "C:\\Users\\Thauanzin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Thauanzin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'KRPC.Client 0.4.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "KRPC.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

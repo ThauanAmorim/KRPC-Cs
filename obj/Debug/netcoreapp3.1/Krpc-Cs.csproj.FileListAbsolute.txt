@@ -1,0 +1,16 @@
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.exe
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.deps.json
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.runtimeconfig.json
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.runtimeconfig.dev.json
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.dll
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Krpc-Cs.pdb
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.csprojAssemblyReference.cache
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.AssemblyInfoInputs.cache
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.AssemblyInfo.cs
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.csproj.CoreCompileInputs.cache
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.dll
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.pdb
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.genruntimeconfig.cache
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\bin\Debug\netcoreapp3.1\KRPC.Client.dll
+C:\Users\Thauanzin\Documents\Software Projects\Krpc-Cs\obj\Debug\netcoreapp3.1\Krpc-Cs.csproj.CopyComplete
